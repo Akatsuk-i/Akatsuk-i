@@ -4,6 +4,7 @@
 
 Welcome to my GitHub profile! I'm a B.Tech student passionate about building clean, responsive web applications and mastering core Data Structures & Algorithms.
 
+- Created this page for just fun.
 ---
 
 ## 🛠️ Tech Stack & Tools
