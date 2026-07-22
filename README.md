@@ -1,75 +1,47 @@
-# Hi there 👋, I'm ponxhub
+# Hi there! 👋
 
-## 🚀 About Me
-🎓 B.Tech Computer Science Student
+### 🚀 B.Tech Student | Web Developer | Tech Enthusiast
 
-💻 MERN Stack Developer (Learning)
-
-🌱 Currently learning:
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-
-📚 Also practicing:
-- Data Structures & Algorithms (C++)
-- JavaScript (ES6)
-- Git & GitHub
+Welcome to my GitHub profile! I'm a B.Tech student passionate about building clean, responsive web applications and mastering core Data Structures & Algorithms.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
-### Languages
-- C++
-- JavaScript
-- HTML5
-- CSS3
-
-### Frontend
-- React.js
-- Next.js
-- Tailwind CSS
-- Bootstrap
-
-### Backend
-- Node.js
-- Express.js
-
-### Database
-- MongoDB
-- MySQL
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📂 Featured Projects
+## 💻 Featured Projects
 
-### 💼 CareerHub
-A LinkedIn-inspired MERN application for students and recruiters.
-
-### ⚡ Smart Building Energy Optimization
-IoT-based project using Arduino, NodeMCU, DHT11, PIR Sensor, Relay Module, and ThingSpeak Cloud.
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pornxhub&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pornxhub&layout=compact&theme=tokyonight)
+| Project Name | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **Project One** | Interactive web application built with clean UI and responsive design. | JS, HTML, CSS | [Live Demo](#) \| [Repo](#) |
+| **Project Two** | Web application consuming REST APIs with dynamic data rendering. | JavaScript, Web APIs | [Live Demo](#) \| [Repo](#) |
 
 ---
 
-## 📫 Connect with Me
+## 📊 GitHub Analytics
 
-- GitHub: https://github.com/pornxhub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pornxhub&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pornxhub&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 📫 Connect With Me
+
+* 🌐 **Portfolio:** [pornxhub.github.io/portfolio](https://pornxhub.github.io/portfolio/)
+* 📧 **Email:** [comback2k225real@gmail.com](mailto:comback2k225real@gmail.com)
+
+---
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i> — Cory House
+</p>
