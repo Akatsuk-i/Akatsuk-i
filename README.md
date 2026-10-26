@@ -30,8 +30,8 @@ Welcome to my GitHub profile! I'm a B.Tech student passionate about building cle
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pornxhub&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pornxhub&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akatsuk-i&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akatsuk-i&layout=compact&theme=dark" alt="Top Languages" width="48%" />
 </p>
 
 ---
@@ -39,7 +39,6 @@ Welcome to my GitHub profile! I'm a B.Tech student passionate about building cle
 ## 📫 Connect With Me
 
 * 🌐 **Portfolio:** [pornxhub.github.io/portfolio](https://pornxhub.github.io/portfolio/)
-* 📧 **Email:** [comback2k225real@gmail.com](mailto:comback2k225real@gmail.com)
 
 ---
 
