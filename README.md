@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-### 🚀 B.Tech Student | Web Developer | Tech Enthusiast
+### 🚀 Student | Web Developer | Tech Enthusiast
 
 Welcome to my GitHub profile! I'm a B.Tech student passionate about building clean, responsive web applications and mastering core Data Structures & Algorithms.
 
